@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210ltexx/proprietary/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin \
     vendor/samsung/gts210ltexx/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/gts210ltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
+    vendor/samsung/gts210ltexx/proprietary/lib/hw/sensors.exynos5.so:system/lib/hw/sensors.exynos5.so \
     vendor/samsung/gts210ltexx/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/gts210ltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/gts210ltexx/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
