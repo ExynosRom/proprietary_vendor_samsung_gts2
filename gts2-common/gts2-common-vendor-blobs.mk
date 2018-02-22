@@ -44,12 +44,30 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts2-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/gts2-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/gts2-common/proprietary/lib/libyasalgo.so:system/lib/libyasalgo.so \
-    vendor/samsung/gts2-common/proprietary/lib/hw/sensors.exynos5.so:system/lib/hw/sensors.exynos5.so \
     vendor/samsung/gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/gts2-common/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
-    vendor/samsung/gts2-common/proprietary/vendor/lib/libMcRegistry.so:system/vendor/lib/libMcRegistry.so \
-    vendor/samsung/gts2-common/proprietary/vendor/lib/libMcClient.so:system/vendor/lib/libMcClient.so \
+    vendor/samsung/gts2-common/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
+    vendor/samsung/gts2-common/proprietary/bin/cs:system/bin/cs \
     vendor/samsung/gts2-common/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
     vendor/samsung/gts2-common/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
     vendor/samsung/gts2-common/proprietary/lib/libsynaFpSensorTestNwd.so:system/lib/libsynaFpSensorTestNwd.so \
-    vendor/samsung/gts2-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so
+    vendor/samsung/gts2-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so \
+	vendor/samsung/gts2-common/proprietary/lib/hw/fingerprint.default.so:system/lib/hw/fingerprint.vendor.exynos5.so \
+    vendor/samsung/gts2-common/proprietary/vendor/lib/libMcClient.so:system/vendor/lib/libMcClient.so \
+    vendor/samsung/gts2-common/proprietary/vendor/lib/libMcRegistry.so:system/vendor/lib/libMcRegistry.so \
+    vendor/samsung/gts2-common/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4356_a2:system/etc/wifi/bcmdhd_apsta.bin_4356_a2 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4358_a1:system/etc/wifi/bcmdhd_apsta.bin_4358_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_a1:system/etc/wifi/bcmdhd_apsta.bin_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_ibss.bin_4356_a2:system/etc/wifi/bcmdhd_ibss.bin_4356_a2 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_ibss.bin_4358_a1:system/etc/wifi/bcmdhd_ibss.bin_4358_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_ibss.bin_a1:system/etc/wifi/bcmdhd_ibss.bin_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_mfg.bin_4356_a2:system/etc/wifi/bcmdhd_mfg.bin_4356_a2 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_mfg.bin_4358_a1:system/etc/wifi/bcmdhd_mfg.bin_4358_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_mfg.bin_a1:system/etc/wifi/bcmdhd_mfg.bin_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_sta.bin_4356_a2:system/etc/wifi/bcmdhd_sta.bin_4356_a2 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_sta.bin_4358_a1:system/etc/wifi/bcmdhd_sta.bin_4358_a1 \
+    vendor/samsung/gts2-common/proprietary/etc/wifi/bcmdhd_sta.bin_a1:system/etc/wifi/bcmdhd_sta.bin_a1

@@ -48,11 +48,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28ltexx/proprietary/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
     vendor/samsung/gts28ltexx/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/gts28ltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
+    vendor/samsung/gts28ltexx/proprietary/lib/hw/sensors.exynos5.so:system/lib/hw/sensors.exynos5.so \
     vendor/samsung/gts28ltexx/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/gts28ltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4356_a2:system/etc/wifi/nvram_mfg.txt_4356_a2 \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4358_a1:system/etc/wifi/nvram_mfg.txt_4358_a1 \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4356_a2:system/etc/wifi/nvram_net.txt_4356_a2 \
-    vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4358_a1:system/etc/wifi/nvram_net.txt_4358_a1
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4356_a2:system/etc/wifi/nvram_mfg.txt_4356_a2 \
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4358_a1:system/etc/wifi/nvram_mfg.txt_4358_a1 \
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4356_a2:system/etc/wifi/nvram_net.txt_4356_a2 \
+   vendor/samsung/gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4358_a1:system/etc/wifi/nvram_net.txt_4358_a1

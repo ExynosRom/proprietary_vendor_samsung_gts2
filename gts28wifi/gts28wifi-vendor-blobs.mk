@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/gts28wifi/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
     vendor/samsung/gts28wifi/proprietary/lib/hw/gps.universal5433.so:system/lib/hw/gps.universal5433.so \
+    vendor/samsung/gts28wifi/proprietary/lib/hw/sensors.exynos5.so:system/lib/hw/sensors.exynos5.so \
     vendor/samsung/gts28wifi/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
     vendor/samsung/gts28wifi/proprietary/app/mcRegistry/07010000000000000000000000000000.tlbin:system/app/mcRegistry/07010000000000000000000000000000.tlbin \
     vendor/samsung/gts28wifi/proprietary/app/mcRegistry/08130000000000000000000000000000.tlbin:system/app/mcRegistry/08130000000000000000000000000000.tlbin \
